@@ -1,2 +1,2 @@
-1.0.1
+1.0.0
 https://github.com/ANP-MD/ReparationsRegistry/releases/download/1.0.0/RepairRegistryInstaller.exe
